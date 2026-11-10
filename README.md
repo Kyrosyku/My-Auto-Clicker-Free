@@ -2,22 +2,23 @@
 
 A free and simple Auto Clicker for Windows.
 
-## 📌 About
+## 📌 About АВТОКЛИКЕР НА РУССКОМ!!!!!!!!!! БЕЗ СМЕНЫ Языка на Англиский пока что// 
 
 **Keyboard Auto Clicker Free** is a desktop application designed to automate mouse clicking.
+Автокликер — это специальная программа или скрипт, которая автоматически имитирует нажатия кнопок мыши или клавиатуры по заданному алгоритму
 
 Created by **Kyrosyku**.
 
-## ✨ Features
+## ✨ Features / Особенности 
 
-- Automatic mouse clicking
-- Windows executable version (.exe)
-- Python source code included
-- Free to use
+- Automatic mouse clicking / Автоматический клик мышью! 
+- Windows executable version (.exe) / Виндовс версия поддерживается 
+- Python source code included / писался на питоне 
+- Free to use / Бесплатный!! И лучше чем у майкрософта 
 
-## 💻 Download
+## 💻 Download/Установка!!
 
-You can download the application from this repository.
+Вы можете скачать приложение из этого репозитория.
 
 **Executable:** `Keyboard Auto Clicker.exe`
 
@@ -57,6 +58,6 @@ License not specified yet.
 
 ---
 
-⭐ If you like this project, consider giving it a Star!
+⭐ Если вам нравится этот проект, подумайте о том, чтобы дать ему звезду!
 
-**Thank you for using Keyboard Auto Clicker Free!**
+**Спасибо за использование клавиатуры Auto Clicker Free! **
