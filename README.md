@@ -2,7 +2,7 @@
 
 A free and simple Auto Clicker for Windows.
 
-## 📌 About АВТОКЛИКЕР НА РУССКОМ!!!!!!!!!!
+## 📌 About АВТОКЛИКЕР English/Russian!!!!!!!!!!
 
 **Keyboard Auto Clicker Free** is a desktop application designed to automate mouse clicking.
 Автокликер — это специальная программа или скрипт, которая автоматически имитирует нажатия кнопок мыши или клавиатуры по заданному алгоритму
