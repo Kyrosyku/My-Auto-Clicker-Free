@@ -13,8 +13,8 @@ Created by **Kyrosyku**.
 - Automatic mouse clicking / Автоматический клик мышью! 
 - Windows executable version (.exe) / Виндовс версия поддерживается 
 - Python source code included / писался на питоне 
-- Free to use / Бесплатный!! И лучше чем у майкрософта 
-![Uploading {954F16B3-1258-4CF4-8240-737244B5B6A4}.png…]()
+- Free to use / Бесплатный!! И лучше чем у майкрософта <img width="1114" height="799" alt="{954F16B3-1258-4CF4-8240-737244B5B6A4}" src="https://github.com/user-attachments/assets/56025b49-9136-4000-b72c-17ae1d9bcfa7" />
+
 
 ## 💻 Download/Установка!!
 
