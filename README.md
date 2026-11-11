@@ -2,7 +2,7 @@
 
 A free and simple Auto Clicker for Windows.
 
-## 📌 About АВТОКЛИКЕР НА РУССКОМ!!!!!!!!!! БЕЗ СМЕНЫ Языка на Англиский пока что// 
+## 📌 About АВТОКЛИКЕР НА РУССКОМ!!!!!!!!!!
 
 **Keyboard Auto Clicker Free** is a desktop application designed to automate mouse clicking.
 Автокликер — это специальная программа или скрипт, которая автоматически имитирует нажатия кнопок мыши или клавиатуры по заданному алгоритму
@@ -32,19 +32,19 @@ The project is written in Python.
 
 Main source file:
 
-`main_v6.py`
+`main_v7.py`
 
 To run the source code:
 
 ```bash
-python main_v6.py
+python main_v7.py
 ```
 
 Install any required Python dependencies before running.
 
 ## 📂 Project Files
 
-- `main_v6.py` — Main Python source code
+- `main_v7.py` — Main Python source code
 - `Keyboard Auto Clicker.exe` — Windows executable
 - `Keyboard Auto Clicker.spec` — PyInstaller configuration
 
