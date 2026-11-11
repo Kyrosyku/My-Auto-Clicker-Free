@@ -10,7 +10,8 @@ A free and simple Auto Clicker for Windows.
 Created by **Kyrosyku**.
 
 ## ✨ Features / Особенности 
-![Uploading {5AD6DF38-2702-4513-9BA4-C895227D98EA}.png…]()
+<img width="1123" height="814" alt="{5AD6DF38-2702-4513-9BA4-C895227D98EA}" src="https://github.com/user-attachments/assets/ddef3597-e5bc-458e-bd0c-e57fd71e66ed" />
+
 
 - Automatic mouse clicking / Автоматический клик мышью! 
 - Windows executable version (.exe) / Виндовс версия поддерживается 
